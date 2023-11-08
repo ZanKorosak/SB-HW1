@@ -1,0 +1,9 @@
+1. Read data
+Data: 
+https://tinyurl.com/ibb-a1-data
+
+2. Evaluate Viola-Jones
+3. Evaluate Local Binary Patterns
+- Implement own version 
+- Compare to OpenCV/Scikit/Matlab and to plain pixel-pixel comparison
+
