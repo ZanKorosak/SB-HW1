@@ -2,3 +2,7 @@
 .vscode/
 ub_venv/
 data/ears/
+data/work/
+data/plots/
+data/identities/
+data/ears data/haarcascade_mcs_leftear.xml data/haarcascade_mcs_rightear.xml data/identities.txt data/plots data/work

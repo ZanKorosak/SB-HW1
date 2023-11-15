@@ -1,0 +1,8 @@
+opencv-python
+matplotlib
+tqdm
+scipy
+sklearn
+scikit-learn
+scikit-image
+mahotas
